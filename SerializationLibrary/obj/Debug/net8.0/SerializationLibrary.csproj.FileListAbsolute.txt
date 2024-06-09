@@ -1,0 +1,12 @@
+D:\Project MPT\олегу\шарп\pract8\SerializationLibrary\bin\Debug\net8.0\SerializationLibrary.deps.json
+D:\Project MPT\олегу\шарп\pract8\SerializationLibrary\bin\Debug\net8.0\SerializationLibrary.dll
+D:\Project MPT\олегу\шарп\pract8\SerializationLibrary\bin\Debug\net8.0\SerializationLibrary.pdb
+D:\Project MPT\олегу\шарп\pract8\SerializationLibrary\obj\Debug\net8.0\SerializationLibrary.csproj.AssemblyReference.cache
+D:\Project MPT\олегу\шарп\pract8\SerializationLibrary\obj\Debug\net8.0\SerializationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project MPT\олегу\шарп\pract8\SerializationLibrary\obj\Debug\net8.0\SerializationLibrary.AssemblyInfoInputs.cache
+D:\Project MPT\олегу\шарп\pract8\SerializationLibrary\obj\Debug\net8.0\SerializationLibrary.AssemblyInfo.cs
+D:\Project MPT\олегу\шарп\pract8\SerializationLibrary\obj\Debug\net8.0\SerializationLibrary.csproj.CoreCompileInputs.cache
+D:\Project MPT\олегу\шарп\pract8\SerializationLibrary\obj\Debug\net8.0\SerializationLibrary.dll
+D:\Project MPT\олегу\шарп\pract8\SerializationLibrary\obj\Debug\net8.0\refint\SerializationLibrary.dll
+D:\Project MPT\олегу\шарп\pract8\SerializationLibrary\obj\Debug\net8.0\SerializationLibrary.pdb
+D:\Project MPT\олегу\шарп\pract8\SerializationLibrary\obj\Debug\net8.0\ref\SerializationLibrary.dll

@@ -1,0 +1,34 @@
+﻿<Window x:Class="pract8.MainWindow"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:cards="clr-namespace:ControlLibrary;assembly=ControlLibrary"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pract8"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="250" Grid.Column="0">
+            <TextBlock Text="Имя:" Margin="0,0,0,10"/>
+            <TextBox x:Name="NameTextBox" Margin="0,0,0,20"/>
+            <TextBlock Text="Возраст:" Margin="0,0,0,10"/>
+            <TextBox x:Name="AgeTextBox" Margin="0,0,0,20"/>
+            <Button Content="Сериализовать" Margin="0,0,0,10" Click="Button_Click"/>
+        </StackPanel>
+
+        
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="250" Grid.Column="1">
+            <Button Content="Десериализовать" Margin="0,0,0,10" Click="Button_Click_1"/>
+            <TextBlock Text="Результат десериализации:" Margin="0,20,0,10"/>
+            <cards:PersonControl x:Name="PersonControl" Margin="0,0,0,20"/>
+            <cards:AgeControl x:Name="AgeControl" Margin="0,0,0,20"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4724B3-85DD-4AEA-B987-005F5EC835AD}|pract8\\pract8.csproj|d:\\project mpt\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\pract8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4724B3-85DD-4AEA-B987-005F5EC835AD}|pract8\\pract8.csproj|solutionrelative:pract8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4724B3-85DD-4AEA-B987-005F5EC835AD}|pract8\\pract8.csproj|d:\\project mpt\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\pract8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4E4724B3-85DD-4AEA-B987-005F5EC835AD}|pract8\\pract8.csproj|solutionrelative:pract8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43DFC5-5FAD-4AFC-86B8-273C32D628D7}|ControlLibrary\\ControlLibrary.csproj|d:\\project mpt\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\controllibrary\\agecontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A43DFC5-5FAD-4AFC-86B8-273C32D628D7}|ControlLibrary\\ControlLibrary.csproj|solutionrelative:controllibrary\\agecontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43DFC5-5FAD-4AFC-86B8-273C32D628D7}|ControlLibrary\\ControlLibrary.csproj|d:\\project mpt\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\controllibrary\\agecontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A43DFC5-5FAD-4AFC-86B8-273C32D628D7}|ControlLibrary\\ControlLibrary.csproj|solutionrelative:controllibrary\\agecontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43DFC5-5FAD-4AFC-86B8-273C32D628D7}|ControlLibrary\\ControlLibrary.csproj|d:\\project mpt\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\controllibrary\\personcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A43DFC5-5FAD-4AFC-86B8-273C32D628D7}|ControlLibrary\\ControlLibrary.csproj|solutionrelative:controllibrary\\personcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4724B3-85DD-4AEA-B987-005F5EC835AD}|pract8\\pract8.csproj|d:\\project mpt\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\pract8\\pract8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E4724B3-85DD-4AEA-B987-005F5EC835AD}|pract8\\pract8.csproj|solutionrelative:pract8\\pract8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43DFC5-5FAD-4AFC-86B8-273C32D628D7}|ControlLibrary\\ControlLibrary.csproj|d:\\project mpt\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\controllibrary\\personcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A43DFC5-5FAD-4AFC-86B8-273C32D628D7}|ControlLibrary\\ControlLibrary.csproj|solutionrelative:controllibrary\\personcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F101A7F-BBD5-4239-BAEE-1AFD86DAE251}|SerializationLibrary\\SerializationLibrary.csproj|d:\\project mpt\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\serializationlibrary\\serializedeserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F101A7F-BBD5-4239-BAEE-1AFD86DAE251}|SerializationLibrary\\SerializationLibrary.csproj|solutionrelative:serializationlibrary\\serializedeserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4724B3-85DD-4AEA-B987-005F5EC835AD}|pract8\\pract8.csproj|d:\\project mpt\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\pract8\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4E4724B3-85DD-4AEA-B987-005F5EC835AD}|pract8\\pract8.csproj|solutionrelative:pract8\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43DFC5-5FAD-4AFC-86B8-273C32D628D7}|ControlLibrary\\ControlLibrary.csproj|d:\\project mpt\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\controllibrary\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A43DFC5-5FAD-4AFC-86B8-273C32D628D7}|ControlLibrary\\ControlLibrary.csproj|solutionrelative:controllibrary\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43DFC5-5FAD-4AFC-86B8-273C32D628D7}|ControlLibrary\\ControlLibrary.csproj|d:\\project mpt\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\controllibrary\\controllibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A43DFC5-5FAD-4AFC-86B8-273C32D628D7}|ControlLibrary\\ControlLibrary.csproj|solutionrelative:controllibrary\\controllibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\pract8\\bin\\Debug\\net8.0-windows\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pract8\\bin\\Debug\\net8.0-windows\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\pract8\\App.xaml",
+              "RelativeDocumentMoniker": "pract8\\App.xaml",
+              "ToolTip": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\pract8\\App.xaml",
+              "RelativeToolTip": "pract8\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T10:18:34.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ControlLibrary",
+              "DocumentMoniker": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\ControlLibrary\\ControlLibrary.csproj",
+              "RelativeDocumentMoniker": "ControlLibrary\\ControlLibrary.csproj",
+              "ToolTip": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\ControlLibrary\\ControlLibrary.csproj",
+              "RelativeToolTip": "ControlLibrary\\ControlLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-09T10:13:28.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pract8",
+              "DocumentMoniker": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\pract8\\pract8.csproj",
+              "RelativeDocumentMoniker": "pract8\\pract8.csproj",
+              "ToolTip": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\pract8\\pract8.csproj",
+              "RelativeToolTip": "pract8\\pract8.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-09T10:03:20.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgeControl.xaml.cs",
+              "DocumentMoniker": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\ControlLibrary\\AgeControl.xaml.cs",
+              "RelativeDocumentMoniker": "ControlLibrary\\AgeControl.xaml.cs",
+              "ToolTip": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\ControlLibrary\\AgeControl.xaml.cs",
+              "RelativeToolTip": "ControlLibrary\\AgeControl.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:02:58.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgeControl.xaml",
+              "DocumentMoniker": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\ControlLibrary\\AgeControl.xaml",
+              "RelativeDocumentMoniker": "ControlLibrary\\AgeControl.xaml",
+              "ToolTip": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\ControlLibrary\\AgeControl.xaml",
+              "RelativeToolTip": "ControlLibrary\\AgeControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T10:02:35.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonControl.xaml.cs",
+              "DocumentMoniker": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\ControlLibrary\\PersonControl.xaml.cs",
+              "RelativeDocumentMoniker": "ControlLibrary\\PersonControl.xaml.cs",
+              "ToolTip": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\ControlLibrary\\PersonControl.xaml.cs",
+              "RelativeToolTip": "ControlLibrary\\PersonControl.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:02:13.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\ControlLibrary\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ControlLibrary\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\ControlLibrary\\AssemblyInfo.cs",
+              "RelativeToolTip": "ControlLibrary\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:02:13.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonControl.xaml",
+              "DocumentMoniker": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\ControlLibrary\\PersonControl.xaml",
+              "RelativeDocumentMoniker": "ControlLibrary\\PersonControl.xaml",
+              "ToolTip": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\ControlLibrary\\PersonControl.xaml",
+              "RelativeToolTip": "ControlLibrary\\PersonControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T10:01:16.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "data.json",
+              "DocumentMoniker": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\pract8\\bin\\Debug\\net8.0-windows\\data.json",
+              "RelativeDocumentMoniker": "pract8\\bin\\Debug\\net8.0-windows\\data.json",
+              "ToolTip": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\pract8\\bin\\Debug\\net8.0-windows\\data.json",
+              "RelativeToolTip": "pract8\\bin\\Debug\\net8.0-windows\\data.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T06:22:33.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SerializeDeserialize.cs",
+              "DocumentMoniker": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\SerializationLibrary\\SerializeDeserialize.cs",
+              "RelativeDocumentMoniker": "SerializationLibrary\\SerializeDeserialize.cs",
+              "ToolTip": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\SerializationLibrary\\SerializeDeserialize.cs",
+              "RelativeToolTip": "SerializationLibrary\\SerializeDeserialize.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:16:00.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\pract8\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "pract8\\MainWindow.xaml",
+              "ToolTip": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\pract8\\MainWindow.xaml",
+              "RelativeToolTip": "pract8\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T06:15:15.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\pract8\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "pract8\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Project MPT\\\u043E\u043B\u0435\u0433\u0443\\\u0448\u0430\u0440\u043F\\pract8\\pract8\\MainWindow.xaml.cs",
+              "RelativeToolTip": "pract8\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:15:12.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
